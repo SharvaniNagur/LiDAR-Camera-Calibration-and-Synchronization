@@ -1,0 +1,1 @@
+The projection of LiDAR data on the camera datais done using calibration values. The 3D point cloud data is transformed into 2D datapoints and then projected on the image
