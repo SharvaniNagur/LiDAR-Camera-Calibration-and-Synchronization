@@ -521,45 +521,6 @@ Possible future improvements:
 
 ---
 
-# ▶️ How to Run
-
-## Step 1: Clone Repository
-
-```bash
-git clone https://github.com/SharvaniNagur/LiDAR-Camera-Calibration-and-Synchronization.git
-```
-
----
-
-## Step 2: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Step 3: Run Synchronization
-
-```bash
-python src/synchronization.py
-```
-
----
-
-# 📦 Requirements
-
-```text
-numpy
-opencv-python
-open3d
-matplotlib
-pandas
-scipy
-scikit-learn
-```
-
----
 
 # 🏷️ GitHub Topics
 
@@ -575,29 +536,7 @@ Add these repository topics:
 - robotics
 - perception
 
----
 
-# 👩‍💻 Authors
-
-- Sharvani V Nagur
-- S M Boomika
-- C M Tulasi
-- Bhagyashri Badakali
-
-School of Electronics and Communication Engineering  
-KLE Technological University
-
----
-
-# 📚 Research Contribution
-
-This work contributes a practical and reproducible framework for:
-- LiDAR–camera calibration
-- Timestamp synchronization
-- Multi-sensor fusion
-- Projection-based validation
-
-using target-based calibration and software-level synchronization methods.
 
 ---
 
