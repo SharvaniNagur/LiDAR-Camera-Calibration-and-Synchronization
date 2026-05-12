@@ -1,0 +1,2 @@
+Camera calibration are called intrinsic callibration and they are collected from camera manual.
+Lidar callibration are collected from MATLAB. Used Camera-Lidar calibration app in Matlab.
